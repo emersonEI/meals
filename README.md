@@ -1,16 +1,11 @@
 # meals
 
-A new Flutter project.
+Projeto Flutter: App Meals.
 
-## Getting Started
+## Sobre
 
-This project is a starting point for a Flutter application.
+Esse projeto foi desenvolvido utilizando o framework Flutter, com a linguagem de programação Dart, como parte do sétimo módulo do curso "Aprenda Flutter e Desenvolva Apps para Android e IOS 2021".
 
-A few resources to get you started if this is your first Flutter project:
+O objectivo no módulo foi trabalhar com navegação em múltiplas telas, e por esse ser o foco o app permite que o usuário navegue por várias telas onde é possível selecionar categorias de comidas, filtrar as comidas, marcar comidas favoritas, ver o informações de preparo e etc.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Instrutor: Leonardo Moura Leitao.
